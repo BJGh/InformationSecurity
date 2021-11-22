@@ -165,7 +165,5 @@ namespace CaesarCipher
 			Writer.Close();
 		}
 
-
-
 	}
 }
