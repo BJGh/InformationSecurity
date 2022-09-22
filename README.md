@@ -1,5 +1,5 @@
 # InformationSecurity
-Information Security MIREA Labs and practice
+Information Security examples
 
 
 ## Лабораторная работа № 1. 
